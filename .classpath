@@ -15,5 +15,6 @@
 			<attribute name="owner.project.facets" value="jst.web"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Cicci/OneDrive/Desktop/commons-text-1.12.0/commons-text-1.12.0.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
